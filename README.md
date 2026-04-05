@@ -81,7 +81,7 @@ This project analyzes healthcare data to identify patient risk factors, track di
 
 ## 📸 Dashboard / Visualization Preview
 
-(Add your plots, heatmaps, or dashboard screenshots here)
+https://abhishekacharya18.github.io/
 
 ---
 
